@@ -1,0 +1,15 @@
+As an AI text-based model, I'm unable to create actual image files. However, I can suggest the structure and naming conventions for the icons that should be placed in the `public/assets/icons` directory. 
+
+Here's a list of suggested icon files that you might need for a tech blog website:
+
+1. `home-icon.svg` - Icon for the home page link.
+2. `article-icon.svg` - Icon for the article or blog posts.
+3. `search-icon.svg` - Icon for the search functionality.
+4. `user-icon.svg` - Icon for user profiles.
+5. `dashboard-icon.svg` - Icon for the admin dashboard.
+6. `content-management-icon.svg` - Icon for content management in the admin panel.
+7. `user-management-icon.svg` - Icon for user management in the admin panel.
+8. `analytics-icon.svg` - Icon for analytics in the admin panel.
+9. `ad-management-icon.svg` - Icon for ad management in the admin panel.
+
+Please note that these are just suggested names and you should replace these `.svg` files with actual icon images that suit your website's design and aesthetics.

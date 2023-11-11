@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Allow: /$
+Allow: /articles/
+Allow: /users/
+Allow: /comments/
+Sitemap: https://www.yourwebsite.com/sitemap.xml
