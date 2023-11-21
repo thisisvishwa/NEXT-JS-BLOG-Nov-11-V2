@@ -1,0 +1,12 @@
+The "public/assets/fonts" is a directory that should contain font files. As an AI text-based model, I can't generate binary font files. However, I can provide an example of how you might reference these fonts in your CSS:
+
+```css
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/assets/fonts/CustomFont-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+```
+
+You would replace 'CustomFont' and 'CustomFont-Regular.ttf' with the actual name of your font and font file, respectively. This CSS can be included in your main.scss or any other .scss file.
